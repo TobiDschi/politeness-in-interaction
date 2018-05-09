@@ -15,11 +15,13 @@ This README is to describe how replication of our study can be achieved (togethe
 > 4. noncompfunccond.py
 > 5. noncompnonfunccond.py
 > 6. experimentinterfacecommented.py
-> 7. analysis.R
-> 8. README
-> 9. LICENSE
+> 7. datasetup.R
+> 8. demographics.R
+> 9. data_analysis.R
+> 10. README.md
+> 11. LICENSE
 > 10. gamelog - Long clean.xlsx 
-> 11. gamelog - Wide.xlsx
+
 
 ## 1. languageinventor.py
 The language inventor serves to the purpose of inventing new languages with either two or three syllable words on the basis of CV syllables. The seed for our sample language was not included in the code, so exact replication is not possible. However, replication on the basis of a different artificial language might be more useful. 
@@ -30,8 +32,14 @@ The python servers are used to enable communication between participants. The co
 ## 6. experimentalinterfacecommented.py
 This file enables access to the server for exactly two players in order to play the game. The log of the game is directly written to a csv file, ready for analysis. 
 
-## 7. analysis.R
-This file (in R) replicates our statistical analysis as reported in the paper. 
+## 7. datasetup.R
+This file (in R) represents the datasetup for the subsequent analysis
+
+## 8. demographics.R
+Some short and easy descriptions of the demographics of our participants
+
+## 9. data_analysis.R
+The data analysis according to our methods section in the paper. The analysis regard both the statistical and the visual methods used for the assessment of our hypothesis H1 through H3.
 
 ## 8. README.md
 An explanation as to how to replicate our study
@@ -40,9 +48,7 @@ An explanation as to how to replicate our study
 MIT license for non-profit purposes only
 
 ## 10. gamelog - Long clean.xlsx
-The dataset on which the main statistical analyses and computational models are run. 
+The dataset on which all statistical analyses and computational models are run. 
 
-## 11. gamelog - Wide.xlsx
-The dataset on which demographic information etc. is calculated
 
 
