@@ -3,7 +3,7 @@
 library(ggplot2)
 
 
-demographicdata = longdata[!duplicated(longdata$playerID),]
+demographicdata = longdata[!duplicated(longdata$no),]
 summary(demographicdata$Gender)
 
 mean(demographicdata$Age)
