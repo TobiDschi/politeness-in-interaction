@@ -1,0 +1,1389 @@
+no,Age,Gender,Nationality,Mothertounge,Languages,Education,English,languageknowledge,concept,collapsedconcept,Pair,player,condition1,condition2,trial,winner,te,na,tenasum,so,bu,sobusum
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,2,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,3,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,4,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,5,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,6,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,7,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,9,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,10,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,12,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,13,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,14,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,15,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,16,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,17,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,18,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,19,no,0,0,0,0,0,0
+1,26,Male,Spanish,Spanish,4,Master,6,4,verb,nonpoliteness,1,1,competitive,functional,20,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,1,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,2,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,3,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,4,no,0,0,0,2,0,2
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,5,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,6,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,7,no,1,0,1,1,0,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,8,no,1,0,1,0,1,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,9,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,10,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,11,no,0,1,1,0,1,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,12,no,1,0,1,0,1,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,13,no,1,0,1,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,14,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,15,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,16,no,1,0,1,1,0,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,17,no,0,0,0,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,18,no,2,0,2,0,1,1
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,19,no,0,1,1,0,0,0
+2,30,Female,China,Mandarin,4,Master,6,5,politeness,politeness,2,1,competitive,functional,20,yes,2,0,2,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,3,no,0,0,0,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,5,no,1,0,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,7,yes,1,0,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,8,no,0,0,0,0,1,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,9,no,0,1,1,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,11,no,0,0,0,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,12,no,0,1,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,13,no,1,0,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,14,no,0,0,0,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,15,yes,0,1,1,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,16,no,0,1,1,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,17,no,0,1,1,1,0,1
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,18,yes,0,1,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,19,no,1,0,1,0,0,0
+3,26,Female,British,English,2,Bachelor,7,4,politeness,politeness,3,1,competitive,functional,20,no,0,0,0,1,0,1
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,1,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,2,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,3,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,4,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,5,yes,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,6,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,7,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,8,yes,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,9,yes,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,10,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,11,yes,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,12,no,0,0,0,1,1,2
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,13,yes,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,14,yes,0,1,1,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,15,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,16,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,17,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,18,no,0,0,0,0,0,0
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,19,yes,0,1,1,1,0,1
+4,24,Female,American,English,2,Bachelor,7,5,amplifier,nonpoliteness,4,1,non-competitive,functional,20,yes,0,0,0,0,1,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,1,no,0,0,0,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,2,no,0,0,0,1,0,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,3,no,1,0,1,0,1,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,4,yes,0,1,1,0,1,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,5,yes,0,0,0,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,6,yes,1,0,1,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,7,no,0,0,0,0,1,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,8,no,0,0,0,2,0,2
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,9,no,0,0,0,2,0,2
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,10,no,0,0,0,2,0,2
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,11,no,0,1,1,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,12,no,0,0,0,1,0,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,13,no,0,0,0,2,0,2
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,14,no,0,0,0,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,15,no,0,0,0,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,16,no,0,1,1,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,17,yes,1,0,1,0,1,1
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,18,yes,0,1,1,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,19,no,0,1,1,0,0,0
+5,19,Female,French,French,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,7,politeness,politeness,5,1,non-competitive,functional,20,no,0,0,0,2,0,2
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,1,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,2,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,3,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,4,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,5,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,6,yes,1,1,2,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,7,yes,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,8,no,0,0,0,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,9,yes,1,0,1,1,0,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,10,no,1,0,1,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,11,yes,0,0,0,2,0,2
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,12,yes,0,1,1,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,13,no,1,0,1,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,14,no,1,0,1,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,15,no,0,0,0,2,0,2
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,16,no,0,0,0,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,17,yes,0,2,2,0,0,0
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,18,no,1,0,1,0,1,1
+6,26,Female,spanish,Catalan,3,Bachelor,5,4,syntax,nonpoliteness,6,1,non-competitive,functional,19,yes,2,0,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,1,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,2,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,3,yes,0,2,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,4,yes,0,1,1,1,0,1
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,5,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,6,yes,0,2,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,7,yes,0,1,1,1,0,1
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,8,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,9,yes,0,1,1,1,0,1
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,10,yes,0,0,0,0,2,2
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,11,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,12,yes,0,2,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,13,yes,0,2,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,14,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,15,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,16,yes,0,0,0,0,2,2
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,17,yes,1,1,2,0,0,0
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,18,yes,0,0,0,2,0,2
+7,35,Female,Hungarian,Hungarian,3,Master,5,1,politeness,politeness,7,1,non-competitive,functional,19,yes,1,1,2,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,1,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,2,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,3,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,4,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,5,yes,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,6,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,7,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,8,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,9,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,10,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,11,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,12,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,13,no,0,0,0,1,0,1
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,14,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,15,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,16,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,17,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,18,yes,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,19,no,0,0,0,0,0,0
+8,26,Female,Danish,Danish,3,Bachelor,5,5,verb,nonpoliteness,8,1,competitive,functional,20,no,0,0,0,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,1,no,0,0,0,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,2,no,0,0,0,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,4,yes,0,0,0,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,5,no,0,0,0,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,6,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,7,no,1,0,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,8,no,0,0,0,1,0,1
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,9,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,10,no,0,1,1,0,1,1
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,11,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,12,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,13,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,14,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,15,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,16,yes,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,17,no,1,0,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,18,no,0,0,0,1,0,1
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,19,no,0,1,1,0,0,0
+9,23,Male,Romanian,Romanian,4,Bachelor,5,5,politeness,politeness,9,1,competitive,nonfunctional,20,no,0,0,0,1,1,2
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,1,no,0,1,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,2,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,3,yes,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,4,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,5,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,6,no,0,1,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,7,no,1,0,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,8,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,9,no,1,0,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,10,no,0,1,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,11,no,0,1,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,12,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,13,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,14,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,15,yes,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,16,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,17,no,0,0,0,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,18,no,0,1,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,19,yes,1,0,1,0,0,0
+10,24,Female,Danish,Danish,6,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,politeness,politeness,10,1,competitive,nonfunctional,20,no,1,0,1,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,3,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,5,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,6,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,8,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,9,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,10,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,11,no,0,0,0,1,0,1
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,13,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,16,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,17,no,0,0,0,0,0,0
+11,28,Male,Danish,Danish,2,Master,5,4,politeness,politeness,11,1,competitive,nonfunctional,20,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,2,no,1,0,1,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,10,no,1,0,1,1,0,1
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,11,no,1,0,1,1,0,1
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,12,no,1,0,1,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,13,no,1,0,1,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,14,no,2,0,2,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,15,no,1,0,1,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,16,no,1,1,2,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,17,no,1,1,2,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,18,no,1,1,2,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,19,no,1,0,1,0,0,0
+12,20,Male,Turkish,Turkish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,12,1,non-competitive,nonfunctional,20,no,1,0,1,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,5,no,0,0,0,1,0,1
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,6,no,1,0,1,0,1,1
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,10,no,0,0,0,1,0,1
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,11,no,1,0,1,1,0,1
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,15,no,0,0,0,1,0,1
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+13,24,Female,Italian,Italian,3,Bachelor,6,3,politeness,politeness,13,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,1,no,0,0,0,1,0,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,2,yes,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,3,no,0,0,0,1,0,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,4,no,1,0,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,5,no,0,0,0,1,0,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,6,no,1,0,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,7,no,1,0,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,8,no,1,0,1,0,1,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,9,yes,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,10,no,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,11,no,0,1,1,0,1,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,12,yes,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,13,yes,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,14,no,0,0,0,1,0,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,15,no,0,0,0,0,1,1
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,16,no,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,17,no,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,18,no,0,1,1,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,19,yes,1,1,2,0,0,0
+14,26,Female,Danish,Danish,3,Bachelor,5,3,politeness,politeness,14,1,competitive,functional,20,no,1,1,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,1,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,2,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,3,no,2,0,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,4,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,5,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,6,no,0,0,0,2,0,2
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,7,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,8,no,1,0,1,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,9,no,2,0,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,10,no,0,1,1,1,0,1
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,11,no,2,0,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,12,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,13,no,1,0,1,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,14,no,0,0,0,1,1,2
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,15,no,0,0,0,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,16,no,2,0,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,17,no,0,1,1,0,1,1
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,18,no,0,1,1,0,1,1
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,19,no,2,0,2,0,0,0
+15,24,Male,Hungarian,Hungarian,3,Bachelor,6,2,amplifier,nonpoliteness,15,1,non-competitive,functional,20,no,0,1,1,0,1,1
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+16,21,Female,Hungarian,Hungarian,3,Bachelor,5,5,politeness,politeness,16,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,14,no,0,0,0,0,1,1
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+17,18,Female,Danish,Danish,4,Middle school,6,3,amplifier,nonpoliteness,17,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,2,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,3,yes,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,4,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,5,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,6,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,7,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,8,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,9,yes,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,10,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,11,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,12,yes,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,13,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,14,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,15,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,16,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,17,yes,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,18,no,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,19,yes,0,0,0,0,0,0
+18,22,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,amplifier,nonpoliteness,18,1,competitive,nonfunctional,20,no,0,0,0,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,1,no,0,0,0,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,2,no,0,0,0,1,0,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,3,no,0,0,0,1,0,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,4,no,0,1,1,0,1,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,5,yes,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,6,yes,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,7,no,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,8,no,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,9,no,0,0,0,1,0,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,10,no,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,11,no,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,12,no,1,0,1,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,13,no,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,14,no,1,1,2,1,1,2
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,15,no,0,1,1,0,1,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,16,yes,1,1,2,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,17,no,0,0,0,0,1,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,18,yes,0,1,1,0,0,0
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,19,yes,1,1,2,1,0,1
+19,20,Female,Italian,Italian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,3,syntax,nonpoliteness,19,1,competitive,functional,20,no,0,1,1,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,1,no,0,0,0,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,2,no,0,0,0,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,3,no,0,1,1,0,1,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,4,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,5,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,6,no,1,0,1,0,1,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,7,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,8,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,9,no,0,0,0,2,0,2
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,10,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,11,no,0,1,1,0,1,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,12,no,0,1,1,0,1,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,13,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,14,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,15,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,16,no,2,0,2,0,0,0
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,17,no,0,1,1,0,1,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,18,no,0,1,1,1,0,1
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,19,no,0,0,0,0,2,2
+20,26,Female,Greek,Greek,4,Bachelor,6,7,amplifier,nonpoliteness,20,1,non-competitive,functional,20,no,2,0,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,1,no,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,2,no,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,3,no,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,4,yes,1,1,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,5,yes,0,0,0,1,0,1
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,6,no,1,1,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,7,no,1,0,1,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,8,no,0,0,0,1,0,1
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,9,no,2,0,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,10,no,1,1,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,11,no,0,0,0,1,0,1
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,12,no,0,1,1,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,13,no,0,1,1,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,14,no,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,15,no,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,16,no,1,1,2,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,17,yes,0,0,0,0,1,1
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,18,no,0,0,0,0,1,1
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,19,yes,0,0,0,0,0,0
+21,22,Female,Spanish,Basque,4,Bachelor,6,5,amplifier,nonpoliteness,21,1,competitive,nonfunctional,20,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,14,no,0,0,0,0,1,1
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+22,25,Male,Australian,English,2,Bachelor,7,2,none,nonpoliteness,22,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,2,yes,0,0,0,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,3,no,0,0,0,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,4,no,0,0,0,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,5,no,0,0,0,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,6,no,1,0,1,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,7,no,0,0,0,1,1,2
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,8,no,0,1,1,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,9,no,0,1,1,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,10,no,0,1,1,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,11,yes,0,3,3,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,12,no,0,3,3,1,1,2
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,13,no,2,4,6,1,1,2
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,14,no,1,1,2,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,15,no,1,6,7,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,16,yes,0,2,2,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,17,yes,0,5,5,0,1,1
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,18,no,1,1,2,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,19,no,1,1,2,0,0,0
+23,26,Female,Polish,Polish,4,Master,7,4,number,nonpoliteness,23,1,competitive,nonfunctional,20,yes,0,1,1,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+24,22,Female,Hungary,Hungarian,4,Bachelor,4,4,pronoun,nonpoliteness,24,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,1,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,2,no,1,0,1,0,1,1
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,3,no,0,1,1,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,4,no,0,0,0,0,1,1
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,5,yes,1,1,2,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,6,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,7,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,8,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,9,no,0,0,0,1,0,1
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,10,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,11,no,0,0,0,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,12,no,0,1,1,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,13,no,0,0,0,1,0,1
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,14,no,0,1,1,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,15,no,1,1,2,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,16,no,1,0,1,0,1,1
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,17,yes,1,1,2,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,18,no,1,1,2,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,19,yes,1,1,2,0,0,0
+25,25,Male,Brazilian,Portuguese,7,Bachelor,4,3,adverb,nonpoliteness,25,1,competitive,functional,20,no,1,1,2,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+26,20,Male,Danish,Danish,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,pronoun,nonpoliteness,26,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,1,no,0,0,0,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,2,no,0,0,0,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,3,no,0,1,1,1,0,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,4,no,0,2,2,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,5,no,0,0,0,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,6,no,0,1,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,7,no,0,0,0,1,0,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,8,no,0,1,1,0,2,2
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,9,no,1,0,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,10,no,0,1,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,11,no,0,0,0,1,1,2
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,12,no,1,0,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,13,no,0,1,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,14,no,0,0,0,1,0,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,15,no,1,0,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,16,no,1,0,1,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,17,no,1,0,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,18,no,1,0,1,0,0,0
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,19,no,1,0,1,0,1,1
+27,24,Male,polish,Polish,5,Bachelor,6,4,politeness,politeness,27,1,non-competitive,functional,20,no,1,1,2,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,11,no,0,0,0,1,0,1
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+28,30,Male,Danish,Danish,4,Bachelor,6,4,amplifier,nonpoliteness,28,1,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,1,yes,1,0,1,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,2,no,0,0,0,1,0,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,3,no,1,0,1,1,0,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,4,no,0,0,0,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,5,yes,1,0,1,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,6,no,0,0,0,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,7,no,1,0,1,1,0,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,8,no,0,0,0,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,9,yes,2,0,2,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,10,no,0,0,0,1,1,2
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,11,yes,0,1,1,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,12,no,0,2,2,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,13,no,0,0,0,2,0,2
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,14,no,2,0,2,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,15,no,0,0,0,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,16,no,0,0,0,0,1,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,17,no,1,0,1,1,0,1
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,18,no,1,0,1,1,1,2
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,19,yes,0,1,1,0,0,0
+29,23,Male,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,1,competitive,functional,20,no,1,1,2,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,2,no,1,0,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,4,no,1,0,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,5,no,1,0,1,0,1,1
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,6,no,1,0,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,7,no,1,0,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,8,no,0,0,0,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,9,no,0,0,0,0,1,1
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,10,no,0,0,0,0,1,1
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,11,no,1,0,1,0,1,1
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,12,no,0,1,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,13,no,0,1,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,14,yes,0,0,0,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,15,yes,0,0,0,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,16,no,0,0,0,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,17,yes,0,0,0,0,1,1
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,18,no,0,1,1,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,19,no,0,0,0,0,0,0
+30,25,Male,Danish,Danish,4,Bachelor,5,3,politeness,politeness,30,1,competitive,nonfunctional,20,no,0,0,0,2,0,2
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,1,no,0,0,0,0,2,2
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,2,no,0,0,0,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,3,no,0,1,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,4,no,1,1,2,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,5,no,1,0,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,6,no,1,1,2,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,7,no,0,1,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,8,no,0,0,0,1,0,1
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,9,no,1,0,1,1,0,1
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,10,no,0,0,0,0,2,2
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,11,no,1,0,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,12,no,0,0,0,1,0,1
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,13,no,0,1,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,14,no,1,0,1,1,0,1
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,15,no,0,1,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,16,no,1,1,2,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,17,no,0,1,1,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,18,no,0,1,1,0,1,1
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,19,no,1,1,2,0,0,0
+31,24,Female,Hungarian,Hungarian,4,Bachelor,7,3,pronoun,nonpoliteness,31,1,non-competitive,functional,20,no,0,1,1,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,15,no,1,0,1,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,18,no,1,0,1,1,0,1
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,19,no,0,0,0,1,0,1
+32,24,Female,Bulgarian,Bulgarian,3,Bachelor,6,7,politeness,politeness,32,1,non-competitive,nonfunctional,20,no,1,0,1,1,0,1
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,1,no,0,0,0,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,3,no,0,0,0,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,4,no,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,5,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,6,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,7,no,0,0,0,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,8,no,0,0,0,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,9,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,10,no,1,0,1,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,11,no,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,12,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,13,no,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,14,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,15,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,16,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,17,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,18,no,1,0,1,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,19,yes,1,1,2,0,0,0
+33,19,Female,Estonian,Estonian,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,4,politeness,politeness,33,1,competitive,functional,20,no,0,1,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,1,no,0,0,0,0,0,0
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,2,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,3,no,0,0,0,0,0,0
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,4,no,0,0,0,0,0,0
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,5,no,0,0,0,0,2,2
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,6,no,0,1,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,7,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,8,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,9,no,0,1,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,10,no,0,1,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,11,no,0,1,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,12,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,13,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,14,no,1,0,1,0,0,0
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,15,no,1,0,1,0,0,0
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,16,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,17,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,18,no,1,0,1,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,19,no,0,0,0,1,0,1
+34,20,Male,Danish,German,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,34,1,non-competitive,functional,20,no,1,0,1,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,1,no,0,0,0,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,2,no,0,0,0,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,3,no,1,0,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,4,yes,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,5,no,1,0,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,6,no,1,0,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,7,no,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,8,no,1,0,1,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,9,no,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,10,yes,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,11,no,0,1,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,12,no,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,13,no,0,0,0,0,1,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,14,yes,0,0,0,1,1,2
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,15,no,1,0,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,16,yes,0,1,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,17,no,0,0,0,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,18,no,1,0,1,1,0,1
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,19,no,1,0,1,0,0,0
+35,30,Male,Spanish,Spanish,3,Bachelor,5,4,amplifier,nonpoliteness,35,1,competitive,nonfunctional,20,no,0,0,0,1,0,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,1,no,0,0,0,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,2,yes,0,0,0,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,3,yes,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,4,no,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,5,no,0,0,0,2,0,2
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,6,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,7,yes,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,8,no,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,9,no,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,10,yes,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,11,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,12,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,13,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,14,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,15,no,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,16,no,1,0,1,1,0,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,17,no,1,0,1,1,0,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,18,no,0,0,0,0,1,1
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,19,no,1,0,1,0,0,0
+36,34,Female,Ukraine,Russian,6,Master,6,7,politeness,politeness,36,1,competitive,nonfunctional,20,no,0,0,0,1,0,1
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,2,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,3,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,4,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,5,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,6,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,7,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,9,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,10,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,12,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,13,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,14,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,15,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,16,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,17,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,18,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,19,no,0,0,0,0,0,0
+37,26,Male,Danish,Danish,4,Bachelor,6,1,politeness,politeness,1,2,competitive,functional,20,no,0,0,0,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,1,no,0,0,0,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,2,yes,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,3,no,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,4,yes,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,5,no,0,0,0,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,6,no,0,0,0,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,7,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,8,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,9,no,0,0,0,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,10,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,11,yes,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,12,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,13,yes,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,14,no,0,0,0,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,15,no,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,16,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,17,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,18,no,1,0,1,0,1,1
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,19,yes,1,0,1,0,0,0
+38,29,Male,Australian,English,3,Master,7,1,politeness,politeness,2,2,competitive,functional,20,no,1,0,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,3,yes,1,0,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,5,yes,1,0,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,7,no,0,0,0,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,8,no,0,0,0,0,1,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,9,no,0,0,0,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,11,yes,0,1,1,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,12,yes,1,0,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,13,no,0,0,0,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,14,no,1,0,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,15,no,0,0,0,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,16,no,0,1,1,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,17,no,0,1,1,0,0,0
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,18,no,0,1,1,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,19,no,0,1,1,1,0,1
+39,25,Female,Greek,Greek,3,Bachelor,6,1,politeness,politeness,3,2,competitive,functional,20,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,1,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,2,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,3,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,4,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,5,yes,1,0,1,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,6,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,7,no,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,8,yes,1,0,1,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,9,yes,1,0,1,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,10,no,0,0,0,0,1,1
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,11,yes,1,0,1,0,1,1
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,12,no,0,0,0,1,1,2
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,13,yes,1,0,1,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,14,yes,1,0,1,1,0,1
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,15,no,0,0,0,0,2,2
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,16,no,0,0,0,1,1,2
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,17,no,0,0,0,2,0,2
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,18,no,1,0,1,1,0,1
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,19,yes,0,0,0,0,0,0
+40,21,Female,Canada,English,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,2,amplifier,nonpoliteness,4,2,non-competitive,functional,20,yes,1,0,1,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,1,no,0,0,0,1,1,2
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,2,no,0,0,0,1,0,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,3,no,1,0,1,0,1,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,4,yes,0,1,1,0,1,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,5,yes,1,0,1,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,6,yes,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,7,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,8,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,9,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,10,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,11,no,0,0,0,1,0,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,12,no,0,1,1,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,13,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,14,no,1,0,1,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,15,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,16,no,0,0,0,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,17,yes,1,0,1,0,1,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,18,yes,1,0,1,0,1,1
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,19,no,1,0,1,0,0,0
+41,25,Male,Bulgarian,Bulgarian,4,Bachelor,6,5,politeness,politeness,5,2,non-competitive,functional,20,no,1,0,1,1,0,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,1,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,2,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,3,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,4,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,5,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,6,yes,0,0,0,0,1,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,7,yes,1,0,1,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,8,no,1,0,1,1,0,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,9,yes,0,2,2,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,10,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,11,yes,1,0,1,0,1,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,12,yes,0,1,1,0,1,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,13,no,0,1,1,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,14,no,1,1,2,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,15,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,16,no,0,0,0,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,17,yes,2,0,2,0,0,0
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,18,no,0,0,0,0,1,1
+42,22,Male,British,English,2,Master,7,2,politeness,politeness,6,2,non-competitive,functional,19,yes,0,2,2,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,1,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,2,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,3,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,4,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,5,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,6,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,7,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,8,yes,0,1,1,1,0,1
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,9,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,10,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,11,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,12,yes,0,1,1,1,0,1
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,13,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,14,yes,0,0,0,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,15,yes,0,1,1,1,0,1
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,16,yes,1,1,2,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,17,yes,1,1,2,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,18,yes,1,1,2,0,0,0
+43,23,Female,Danish,Danish,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,5,politeness,politeness,7,2,non-competitive,functional,19,yes,1,1,2,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,1,yes,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,2,yes,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,3,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,4,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,5,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,6,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,7,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,8,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,9,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,10,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,11,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,12,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,13,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,14,no,0,1,1,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,15,yes,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,16,no,0,0,0,1,0,1
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,17,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,18,no,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,19,yes,0,0,0,0,0,0
+44,23,Male,Spanish,Spanish,4,Bachelor,6,1,politeness,politeness,8,2,competitive,functional,20,yes,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,politeness,politeness,9,2,competitive,nonfunctional,1,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,2,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,4,no,0,1,1,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,5,yes,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,6,yes,1,0,1,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,7,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,8,no,0,0,0,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,9,no,0,0,0,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,10,no,0,0,0,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,11,no,0,0,0,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,12,yes,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,13,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,14,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,15,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,16,no,0,0,0,1,0,1
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,17,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,18,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,19,no,0,0,0,0,0,0
+45,22,Female,Chinese,Mandarin,4,Master,6,6,amplifier,nonpoliteness,9,2,competitive,nonfunctional,20,no,0,0,0,2,0,2
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,1,no,0,0,0,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,2,yes,0,0,0,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,3,no,0,0,0,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,4,no,0,0,0,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,5,yes,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,6,no,0,0,0,0,2,2
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,7,no,0,0,0,1,0,1
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,8,yes,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,9,yes,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,10,no,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,11,no,0,0,0,1,1,2
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,12,no,1,0,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,13,no,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,14,no,1,0,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,15,no,0,0,0,1,1,2
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,16,yes,1,0,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,17,no,0,1,1,0,0,0
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,18,no,0,0,0,1,0,1
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,19,no,0,0,0,1,0,1
+46,34,Female,Danish,Danish,7,Master,5,6,politeness,politeness,10,2,competitive,nonfunctional,20,yes,1,0,1,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,3,no,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,5,no,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,6,no,2,0,2,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,8,yes,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,9,no,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,10,yes,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,11,no,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,13,yes,0,2,2,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,16,yes,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,17,no,0,0,0,0,0,0
+47,24,Male,Danish,Danish,2,Bachelor,6,4,politeness,politeness,11,2,competitive,nonfunctional,20,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+48,25,Female,Czech,Czech,4,Bachelor,6,3,amplifier,nonpoliteness,12,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,4,no,0,0,0,1,0,1
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,5,no,1,1,2,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,7,no,0,1,1,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,8,no,0,0,0,1,0,1
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,10,no,0,0,0,1,0,1
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,11,no,0,1,1,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,13,no,1,0,1,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,14,no,1,2,3,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,15,no,0,0,0,0,1,1
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,17,no,0,0,0,1,0,1
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+49,20,Male,Danish,Danish,7,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,7,politeness,politeness,13,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,1,no,0,0,0,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,2,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,3,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,4,no,1,0,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,5,yes,1,0,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,6,no,1,0,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,7,no,1,0,1,0,1,1
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,8,no,1,0,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,9,no,0,1,1,1,0,1
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,10,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,11,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,12,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,13,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,14,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,15,no,0,1,1,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,16,no,0,0,0,2,0,2
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,17,yes,1,1,2,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,18,yes,1,1,2,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,19,no,1,1,2,0,0,0
+50,26,Female,Danish,Danish,2,"Professional education (uddannelse, Berufsausbildung, FP)",5,4,politeness,politeness,14,2,competitive,functional,20,yes,1,1,2,1,0,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,1,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,2,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,3,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,4,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,5,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,6,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,7,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,8,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,9,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,10,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,11,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,12,no,0,1,1,1,0,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,13,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,14,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,15,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,16,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,17,no,0,1,1,1,0,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,18,no,2,0,2,0,0,0
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,19,no,0,1,1,0,1,1
+51,25,Male,Denmark,Danish,2,Bachelor,6,3,none,nonpoliteness,15,2,non-competitive,functional,20,no,0,1,1,0,1,1
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,8,no,0,1,1,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,9,no,0,1,1,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,11,no,0,1,1,1,0,1
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,12,no,0,1,1,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,13,no,0,1,1,1,0,1
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,15,no,0,1,1,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,16,no,0,1,1,1,0,1
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+52,25,Female,Pakistani,Urdu,3,Master,6,3,syntax,nonpoliteness,16,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,1,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,2,no,1,0,1,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,4,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,6,no,1,0,1,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,7,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,8,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,9,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,10,no,1,0,1,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,11,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,13,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,15,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,19,no,0,0,0,1,0,1
+53,24,Female,Brazilian,Portuguese,2,Master,5,4,gender,nonpoliteness,17,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,2,no,0,0,0,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,3,no,1,0,1,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,4,no,1,0,1,0,2,2
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,5,no,0,1,1,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,6,no,2,0,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,7,yes,1,1,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,8,yes,0,2,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,9,no,1,1,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,10,no,2,0,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,11,no,0,0,0,1,0,1
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,12,no,0,0,0,0,1,1
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,13,no,0,0,0,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,14,yes,0,0,0,0,1,1
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,15,no,2,0,2,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,16,no,0,0,0,0,2,2
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,17,no,0,1,1,0,1,1
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,18,no,0,1,1,0,1,1
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,19,no,0,1,1,0,0,0
+54,24,Male,Turkish,Turkish,2,Bachelor,6,6,politeness,politeness,18,2,competitive,nonfunctional,20,no,2,0,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,1,no,0,0,0,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,2,no,0,0,0,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,3,yes,0,1,1,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,4,no,0,0,0,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,5,no,0,1,1,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,6,no,1,1,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,7,yes,1,1,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,8,no,1,1,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,9,no,0,0,0,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,10,no,0,1,1,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,11,yes,1,0,1,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,12,yes,1,1,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,13,yes,1,1,2,1,0,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,14,no,1,1,2,1,1,2
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,15,no,0,1,1,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,16,no,0,1,1,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,17,no,1,1,2,0,0,0
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,18,no,0,1,1,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,19,no,0,1,1,0,1,1
+55,23,Female,Russian,Russian,4,Bachelor,5,2,politeness,politeness,19,2,competitive,functional,20,yes,1,1,2,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,1,no,0,0,0,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,2,no,0,0,0,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,3,no,0,0,0,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,4,no,0,0,0,2,0,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,5,no,1,0,1,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,6,no,0,0,0,2,0,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,7,no,0,0,0,2,0,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,8,no,0,1,1,0,1,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,9,no,0,0,0,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,10,no,0,0,0,1,1,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,11,no,0,0,0,2,0,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,12,no,0,0,0,1,0,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,13,no,0,1,1,0,1,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,14,no,0,0,0,2,0,2
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,15,no,2,0,2,0,0,0
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,16,no,0,1,1,1,0,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,17,no,0,1,1,1,0,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,18,no,0,1,1,0,1,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,19,no,0,1,1,1,0,1
+56,22,Male,Danish,Danish,2,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,2,politeness,politeness,20,2,non-competitive,functional,20,no,1,0,1,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,1,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,2,yes,0,0,0,1,0,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,3,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,4,no,0,0,0,1,0,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,5,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,6,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,7,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,8,yes,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,9,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,10,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,11,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,12,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,13,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,14,yes,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,15,no,0,0,0,0,1,1
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,16,yes,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,17,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,18,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,19,no,0,0,0,0,0,0
+57,23,Female,Danish,English,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,6,posessive,nonpoliteness,21,2,competitive,nonfunctional,20,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+58,23,Female,Greek,Greek,3,Bachelor,6,4,gender,nonpoliteness,22,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,2,no,0,0,0,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,3,no,0,1,1,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,4,no,0,0,0,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,5,yes,1,0,1,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,6,no,0,0,0,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,7,no,1,0,1,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,8,no,1,1,2,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,9,no,1,0,1,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,10,yes,0,3,3,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,11,no,0,1,1,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,12,yes,0,5,5,0,1,1
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,13,no,2,4,6,1,1,2
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,14,yes,1,2,3,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,15,no,0,4,4,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,16,no,0,3,3,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,17,no,0,2,2,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,18,no,0,2,2,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,19,no,0,2,2,0,0,0
+59,24,Male,Danish,Danish,2,Bachelor,5,5,none,nonpoliteness,23,2,competitive,nonfunctional,20,no,0,1,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,2,no,1,0,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,5,no,1,0,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,7,no,1,0,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,8,no,0,0,0,1,0,1
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,10,no,2,0,2,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,11,no,1,0,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,15,no,1,0,1,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,16,no,0,0,0,1,0,1
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,19,no,2,0,2,0,0,0
+60,24,Female,Spain,Spanish,3,Bachelor,5,3,syntax,nonpoliteness,24,2,non-competitive,nonfunctional,20,no,0,0,0,2,0,2
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,1,no,1,0,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,2,no,0,0,0,0,1,1
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,3,no,0,0,0,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,4,no,0,0,0,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,5,no,1,0,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,6,no,0,0,0,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,7,no,1,1,2,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,8,no,0,0,0,1,0,1
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,9,no,0,0,0,1,0,1
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,10,yes,1,0,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,11,yes,0,1,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,12,no,0,0,0,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,13,no,0,0,0,0,1,1
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,14,no,0,1,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,15,yes,1,1,2,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,16,yes,1,1,2,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,17,no,1,0,1,0,1,1
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,18,no,1,1,2,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,19,no,0,1,1,0,0,0
+61,24,Female,German,German,6,Bachelor,6,4,politeness,politeness,25,2,competitive,functional,20,no,1,1,2,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+62,26,Female,Italian,Italian,6,Master,6,5,syntax,nonpoliteness,26,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,1,no,0,0,0,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,2,no,0,1,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,3,no,0,0,0,1,0,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,4,no,0,0,0,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,5,no,0,0,0,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,6,no,0,1,1,0,1,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,7,no,0,1,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,8,no,0,1,1,0,2,2
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,9,no,0,1,1,1,0,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,10,no,0,1,1,0,1,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,11,no,0,0,0,1,1,2
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,12,no,1,0,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,13,no,0,1,1,0,1,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,14,no,0,1,1,0,1,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,15,no,0,0,0,1,0,1
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,16,no,1,0,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,17,no,1,1,2,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,18,no,1,0,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,19,no,1,0,1,0,0,0
+63,21,Male,United States of America,English,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",7,1,politeness,politeness,27,2,non-competitive,functional,20,no,1,1,2,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,5,no,0,0,0,0,2,2
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,10,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,11,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,12,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,13,no,0,0,0,1,1,2
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,14,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,15,no,1,0,1,1,0,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,16,no,1,0,1,1,0,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,17,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,18,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,19,no,1,0,1,0,1,1
+64,26,Female,Polish,Polish,9,Bachelor,5,1,syntax,nonpoliteness,28,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,1,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,2,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,3,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,4,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,5,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,6,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,7,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,8,yes,1,1,2,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,9,no,1,0,1,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,10,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,11,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,12,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,13,no,1,0,1,1,0,1
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,14,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,15,no,0,0,0,1,0,1
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,16,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,17,yes,1,1,2,0,1,1
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,18,no,0,0,0,0,0,0
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,19,no,1,0,1,0,1,1
+65,21,Male,Danish,Danish,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,29,2,competitive,functional,20,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,2,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,4,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,5,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,6,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,7,yes,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,8,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,9,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,10,no,0,0,0,0,2,2
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,11,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,12,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,13,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,14,no,0,0,0,0,1,1
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,15,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,16,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,17,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,18,no,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,19,yes,0,0,0,0,0,0
+66,23,Female,Russian,Russian,6,Bachelor,7,4,politeness,politeness,30,2,competitive,nonfunctional,20,no,0,0,0,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,1,no,1,0,1,0,1,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,2,no,1,0,1,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,3,no,0,0,0,0,1,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,4,no,0,1,1,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,5,no,0,1,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,6,no,1,1,2,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,7,no,0,1,1,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,8,no,0,0,0,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,9,no,1,0,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,10,no,1,1,2,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,11,no,1,0,1,0,0,0
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,12,no,0,1,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,13,no,0,1,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,14,no,1,0,1,0,1,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,15,no,1,0,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,16,no,1,0,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,17,no,0,1,1,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,18,no,0,1,1,0,1,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,19,no,0,0,0,1,0,1
+67,26,Male,British,English,2,Master,7,2,noun,nonpoliteness,31,2,non-competitive,functional,20,no,0,1,1,1,0,1
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,1,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,2,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,3,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,4,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,5,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,6,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,7,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,8,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,9,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,10,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,11,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,12,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,13,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,14,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,15,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,16,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,17,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,18,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,19,no,0,0,0,0,0,0
+68,19,Female,Estonian,Russian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,syntax,nonpoliteness,32,2,non-competitive,nonfunctional,20,no,0,0,0,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,1,no,0,0,0,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,3,no,0,0,0,1,0,1
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,4,yes,0,2,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,5,no,0,0,0,1,0,1
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,6,no,0,2,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,7,no,0,0,0,1,0,1
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,8,no,0,0,0,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,9,no,1,1,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,10,no,1,1,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,11,no,0,0,0,1,0,1
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,12,no,0,1,1,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,13,no,1,1,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,14,no,0,2,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,15,no,1,1,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,16,no,0,2,2,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,17,no,0,0,0,1,0,1
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,18,no,0,1,1,0,0,0
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,19,no,0,0,0,0,2,2
+69,21,Female,Czech,Czech,5,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,articles,nonpoliteness,33,2,competitive,functional,20,no,0,1,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,1,no,0,0,0,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,2,no,0,0,0,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,3,no,1,0,1,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,4,no,0,0,0,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,5,no,0,0,0,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,6,no,1,0,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,7,no,0,0,0,1,1,2
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,8,no,0,0,0,1,1,2
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,9,no,1,0,1,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,10,no,1,1,2,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,11,no,1,0,1,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,12,no,0,0,0,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,13,no,1,0,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,14,no,1,0,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,15,no,1,0,1,1,1,2
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,16,no,1,0,1,1,1,2
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,17,no,1,0,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,18,no,1,0,1,1,0,1
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,19,no,1,0,1,0,0,0
+70,20,Female,Romania,Romanian,3,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",6,3,politeness,politeness,34,2,non-competitive,functional,20,no,1,0,1,1,1,2
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,1,no,0,0,0,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,2,yes,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,3,no,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,4,no,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,5,yes,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,6,yes,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,7,no,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,8,yes,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,9,no,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,10,no,0,0,0,0,1,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,11,no,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,12,no,0,0,0,0,1,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,13,no,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,14,no,0,0,0,0,1,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,15,yes,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,16,no,0,0,0,1,1,2
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,17,yes,0,0,0,1,0,1
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,18,yes,1,0,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,19,yes,0,1,1,0,0,0
+71,26,Male,Malaysian,Malaysian,3,Master,7,5,politeness,politeness,35,2,competitive,nonfunctional,20,no,0,0,0,1,0,1
+72,26,Male,Malaysian,Malaysian,3,Master,7,5,amplifier,nonpoliteness,36,2,competitive,nonfunctional,1,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,2,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,3,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,4,no,1,0,1,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,5,no,0,0,0,0,1,1
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,6,yes,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,7,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,8,no,0,1,1,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,9,yes,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,10,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,11,no,0,0,0,0,1,1
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,12,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,13,no,2,0,2,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,14,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,15,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,16,yes,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,17,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,18,yes,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,19,no,0,0,0,0,0,0
+72,21,Female,Hungarian,Hungarian,4,"High School (studentereksamen, jedwede Hochschulreife, Bachillerato)",5,4,amplifier,nonpoliteness,36,2,competitive,nonfunctional,20,no,0,0,0,0,0,0
