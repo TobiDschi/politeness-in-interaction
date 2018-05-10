@@ -38,7 +38,7 @@ library(lsmeans)
 
 # H3
 
-model3 <- glmer(collapsedconcept ~ condition1 * condition2 + (1|no), longdata, ref = "politeness")
+model3 <- glmer(collapsedconcept ~ condition1 * condition2 + (1|no), longdata, family = "binomial")
 summary(model3)
 
 # comparison of least square means - significance of condition differences
