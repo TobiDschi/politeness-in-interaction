@@ -42,15 +42,15 @@ Some short and easy descriptions of the demographics of our participants
 ## 9. data_analysis.R
 The data analysis according to our methods section in the paper. The analysis regard both the statistical and the visual methods used for the assessment of our hypothesis H1 through H3.
 
-## 8. README.md
+## 10. README.md
 An explanation as to how to replicate our study
 
-## 9. LICENSE
+## 11. LICENSE
 MIT license for non-profit purposes only
 
-## 10. gamelog - Long clean.xlsx
+## 12. gamelog - Long clean.xlsx
 The dataset on which all statistical analyses and computational models are run. 
 
-## 11. post_experimental_test_clean.csv
+## 13. post_experimental_test_clean.csv
 The dataset that corresponds to the post experimental test. Usable for replication of H3 hypothesis testing
 
