@@ -20,8 +20,8 @@ This README is to describe how replication of our study can be achieved (togethe
 > 9. data_analysis.R
 > 10. README.md
 > 11. LICENSE
-> 10. gamelog - Long clean.xlsx 
-> 11. post_experimental_text_clean.csv
+> 12. gamelog - Long clean.xlsx 
+> 13. post_experimental_text_clean.csv
 
 
 ## 1. languageinventor.py
