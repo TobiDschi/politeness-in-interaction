@@ -1,8 +1,8 @@
 # politeness-in-interaction
-This project contains the necessary computing data in order to replicate the findings of the article "Beyond Universalism and Culture-Specificity: The propagation of politeness in linguistic interaction". by Gretenkort and Tylén (in press). 
+This project contains the necessary computing data in order to replicate the findings of the article "Beyond Universalism and Culture-Specificity: The propagation of politeness in linguistic interaction". (in press). 
 
 # Authors
-Tobias Gretenkort (RWTH Aachen University), Kristian Tylén (Aarhus University)
+The work is currently under review, so the authors are blinded here for reviewers.
 
 # Replication
 This README is to describe how replication of our study can be achieved (together with the article, restricted access).
