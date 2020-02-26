@@ -21,6 +21,7 @@ This README is to describe how replication of our study can be achieved (togethe
 > 10. README.md
 > 11. LICENSE
 > 10. gamelog - Long clean.xlsx 
+> 11. post_experimental_text_clean.csv
 
 
 ## 1. languageinventor.py
@@ -50,5 +51,6 @@ MIT license for non-profit purposes only
 ## 10. gamelog - Long clean.xlsx
 The dataset on which all statistical analyses and computational models are run. 
 
-
+## 11. post_experimental_test_clean.csv
+The dataset that corresponds to the post experimental test. Usable for replication of H3 hypothesis testing
 
